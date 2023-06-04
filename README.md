@@ -10,8 +10,14 @@ This is a personal webstore project that aims to create a DiscGolf webstore usin
 - React
 - Typescript
 # Setup Instructions
-1. Clone the repository: git clone https://github.com/your-username/discgolf-webstore.git
-2. Navigate to the project directory: cd discgolf-webstore
+1. Clone the repository:
+```
+git clone https://github.com/your-username/discgolf-webstore.git
+```
+2. Navigate to the project directory:
+```
+cd discgolf-webstore
+```
 3. Install dependencies: 
 ```
 npm install
